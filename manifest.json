@@ -1,0 +1,9 @@
+{
+    "name": "ePluribus",
+    "description": "ePluribus",
+    "path": "C:\\Users\\a\\Desktop\\ePluribusDesktop\\sample.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://jjebgbdpnimnjjodplijnmdmgfgikhph/"
+    ]
+}
